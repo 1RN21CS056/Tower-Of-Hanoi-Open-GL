@@ -1,1 +1,1 @@
-# Tower-Of-Hanoi-Open-GL
+# This is Computer Graphics Mini Project (VTU VI sem)
